@@ -96,7 +96,7 @@ body {
 
 .show-cart {
   padding: 2rem 1.5rem;
-/*   transform: rotate3d(0, 1, 0.5, 6.28rad); */
+  transform: rotate3d(0, 1, 0.5, 6.28rad);
   width: 19rem;
 }
 
