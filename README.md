@@ -1,2 +1,2 @@
 # popcrave.github.io
- This is an e-commerce application built with Javascript, Bootstrap, CSS and HTML that has all of the main functions that you would expect.
+This comprehensive e-commerce application, meticulously crafted using a blend of JavaScript, Bootstrap, CSS, and HTML, boasts an array of required functionalities that align seamlessly one's your expectations.
